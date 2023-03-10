@@ -122,7 +122,7 @@ function showScore(){
     finalScoreEl.innerHTML = "You got " + score + " out of " + quizQuestions.length + " correct!";
 }
 
-.
+
 submitScoreBtn.addEventListener("click", function highscore(){
     
     
